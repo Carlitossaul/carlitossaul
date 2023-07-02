@@ -10,7 +10,6 @@ I've been passionate about computers since I was a child. They have always been 
 💻 Skills 💻 
 
 As a developer, I give my all. I enjoy creating attractive and functional digital experiences that have a positive impact on users.
-My skills include HTML, CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, Sequelize, PostgreSQL, Agile Methodologies, and excellent proficiency in libraries to style applications and add functionality.
 I also possess leadership qualities and take initiative. I am highly dedicated and deliver efficient results. Additionally, I am naturally creative and analytical when it comes to problem-solving.
 I adapt to changes easily and have a quick learning ability, which is why I consider myself a self-taught individual.
 
