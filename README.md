@@ -17,6 +17,7 @@ I adapt to changes easily and have a quick learning ability, which is why I cons
 
 In recent months, I have built several projects from scratch, and you can find demos of them on my [portfolio](https://carloslovey.vercel.app/). One of my notable achievements was collaborating with seven teammates on a microservices project, meeting all requirements within a short timeframe.
 I also serve as a Teaching Assistant, providing assistance to beginners in a programming bootcamp, further enhancing my soft and technical skills.
+
 Thank you for visiting my profile! If you'd like to have a conversation, feel free to contact me.. 
 
 <br>
