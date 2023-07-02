@@ -5,9 +5,18 @@
 
 <h2>About me</h2>
 
-- I am a Frontend-oriented Full Stack Developer with a strong ability to work in teams and deliver web projects with great dedication. I enjoy offering engaging and functional digital experiences that positively impact users.
--  I am detail-oriented and highly committed to ensuring that applications function as intended. With leadership skills and initiative, I take on challenges and provide creative results.
-- My portfolio showcases prominent projects where I have applied skills to create engaging and functional digital experiences. Explore it to discover my work in interface design, implementation of interactive features, and innovative technical solutions! If you wish to collaborate or have any questions, feel free to contact me. [link](https://carloslovey.vercel.app/)
+I've been passionate about computers since I was a child. They have always been a powerful tool in my day-to-day life, not only for studying but for everything else as well. One day, I decided to make a 180-degree turn in my career and pursue what I truly love, so I chose to study programming. That's when I joined a bootcamp. I learned a tremendous amount, worked on individual and team projects. Today, I can confidently say that I have discovered something that truly excites me in software development. I love it, it entertains me. I feel like a kid with a brand new toy. Now, I know that my place is in the world of technology.
+
+💻 Skills 💻
+As a developer, I give my all. I enjoy creating attractive and functional digital experiences that have a positive impact on users.
+My skills include HTML, CSS, JavaScript, React, Redux, Git, GitHub, Node.js, Express, Sequelize, PostgreSQL, Agile Methodologies, and excellent proficiency in libraries to style applications and add functionality.
+I also possess leadership qualities and take initiative. I am highly dedicated and deliver efficient results. Additionally, I am naturally creative and analytical when it comes to problem-solving.
+I adapt to changes easily and have a quick learning ability, which is why I consider myself a self-taught individual.
+
+🚀 Experience 🚀
+In recent months, I have built several projects from scratch, and you can find demos of them on my [portfolio](https://carloslovey.vercel.app/). One of my notable achievements was collaborating with seven teammates on a microservices project, meeting all requirements within a short timeframe.
+I also serve as a Teaching Assistant, providing assistance to beginners in a programming bootcamp, further enhancing my soft and technical skills.
+Thank you for visiting my profile! If you'd like to have a conversation, feel free to contact me.. 
 
 <br>
 
