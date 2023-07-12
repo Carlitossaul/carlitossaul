@@ -5,18 +5,18 @@
 
 <h2>About me</h2>
 
-I've been passionate about computers since I was a child. They have always been a powerful tool in my day-to-day life, not only for studying but for everything else as well. One day, I decided to make a 180-degree turn in my career and pursue what I truly love, so I chose to study programming. That's when I joined a bootcamp. I learned a tremendous amount, worked on individual and team projects. Today, I can confidently say that I have discovered something that truly excites me in software development. I love it, it entertains me. I feel like a kid with a brand new toy. Now, I know that my place is in the world of technology.
+Passionate Full Stack Developer specialized in Front End, focused on creating attractive and functional digital experiences.
 
-As a developer, I give my all. I enjoy creating attractive and functional digital experiences that have a positive impact on users.
-I also possess leadership qualities and take initiative. I am highly dedicated and deliver efficient results. Additionally, I am naturally creative and analytical when it comes to problem-solving.
-I adapt to changes easily and have a quick learning ability, which is why I consider myself a self-taught individual.
+💻 Skills 💻
+My expertise includes finding IT solutions in JavaScript, React, Redux, Node.js, TypeScript, React Native, HTML, CSS, Express.js, Sequelize, PostgreSQL, Git, GitHub, agile methodologies, and I have excellent proficiency in libraries to style applications and add functionalities.
 
-🚀 Experience 🚀 
+I am passionate about technology and firmly believe that it enhances our lives. That's why, in my role as a programmer, I constantly seek new challenges to continue growing professionally in my day-to-day work. I continuously educate myself with the tools I already know and learn new ones to further enhance my skills in providing solutions. I also enjoy reading books on social and emotional intelligence to grow as a person, expanding not only my knowledge but also my heart.
 
-In recent months, I have built several projects from scratch, and you can find demos of them on my [portfolio](https://carloslovey.vercel.app/). One of my notable achievements was collaborating with seven teammates on a microservices project, meeting all requirements within a short timeframe.
-I also serve as a Teaching Assistant, providing assistance to beginners in a programming bootcamp, further enhancing my soft and technical skills.
+🚀 Experience 🚀
+Thanks to my experience as a speaker, I possess strong communication skills. I also have leadership experience and currently oversee a workspace in a bootcamp, providing support and guidance to new students and regularly addressing programming and community-related queries. I worked for several years in Brazil, where I learned to be an empathetic, supportive, and collaborative individual, which I apply in my daily life. I excel at teamwork, always offering my support, collaborating, and helping from wherever I am needed. In my latest project, I led the front-end development and successfully met all client demands while respecting timelines and requirements.
 
-Thank you for visiting my profile! If you'd like to have a conversation, feel free to contact me.. 
+I am seeking opportunities where I can apply my technical and creative skills. Contact me! Let's build the digital future together!
+
 
 <br>
 
