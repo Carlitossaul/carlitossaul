@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/Carlitossaul/carlitossaul/assets/106841507/4efe19ac-b95a-4037-ba00-42428df92f58" alt="Imagen de perfil">
-</div>
-<br>
 
 <h2>About me</h2>
 
