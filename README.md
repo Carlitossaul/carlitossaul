@@ -4,7 +4,7 @@
 Passionate Full Stack Developer specialized in Front End, focused on creating attractive and functional digital experiences.
 
 💻 Skills 💻
-My expertise includes finding IT solutions in JavaScript, React, Redux, Node.js, TypeScript, React Native, HTML, CSS, Express.js, Sequelize, PostgreSQL, Git, GitHub, agile methodologies, and I have excellent proficiency in libraries to style applications and add functionalities.
+My expertise includes finding IT solutions in JavaScript, React, Redux, Node.js, TypeScript, HTML, CSS, Express.js, Sequelize, PostgreSQL, Git, GitHub, agile methodologies, and I have excellent proficiency in libraries to style applications and add functionalities.
 
 I am passionate about technology and firmly believe that it enhances our lives. That's why, in my role as a programmer, I constantly seek new challenges to continue growing professionally in my day-to-day work. I continuously educate myself with the tools I already know and learn new ones to further enhance my skills in providing solutions. I also enjoy reading books on social and emotional intelligence to grow as a person, expanding not only my knowledge but also my heart.
 
