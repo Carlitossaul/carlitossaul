@@ -10,6 +10,7 @@ My expertise includes finding IT solutions in JavaScript, React, Redux, Node.js,
 I am passionate about technology and firmly believe that it enhances our lives. That's why, in my role as a programmer, I constantly seek new challenges to continue growing professionally in my day-to-day work. I continuously educate myself with the tools I already know and learn new ones to further enhance my skills in providing solutions. I also enjoy reading books on social and emotional intelligence to grow as a person, expanding not only my knowledge but also my heart.
 
 🚀 Experience 🚀
+
 Thanks to my experience as a speaker, I possess strong communication skills. I also have leadership experience and currently oversee a workspace in a bootcamp, providing support and guidance to new students and regularly addressing programming and community-related queries. I worked for several years in Brazil, where I learned to be an empathetic, supportive, and collaborative individual, which I apply in my daily life. I excel at teamwork, always offering my support, collaborating, and helping from wherever I am needed. In my latest project, I led the front-end development and successfully met all client demands while respecting timelines and requirements.
 
 I am seeking opportunities where I can apply my technical and creative skills. Contact me! Let's build the digital future together!
