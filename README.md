@@ -4,6 +4,7 @@
 Passionate Full Stack Developer specialized in Front End, focused on creating attractive and functional digital experiences.
 
 💻 Skills 💻
+
 My expertise includes finding IT solutions in JavaScript, React, Redux, Node.js, TypeScript, HTML, CSS, Express.js, Sequelize, PostgreSQL, Git, GitHub, agile methodologies, and I have excellent proficiency in libraries to style applications and add functionalities.
 
 I am passionate about technology and firmly believe that it enhances our lives. That's why, in my role as a programmer, I constantly seek new challenges to continue growing professionally in my day-to-day work. I continuously educate myself with the tools I already know and learn new ones to further enhance my skills in providing solutions. I also enjoy reading books on social and emotional intelligence to grow as a person, expanding not only my knowledge but also my heart.
@@ -28,7 +29,6 @@ I am seeking opportunities where I can apply my technical and creative skills. C
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
   <img src="https://img.shields.io/badge/Sequelize.js-%23566DAA.svg?&style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize.js">
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
 </div>
@@ -36,13 +36,13 @@ I am seeking opportunities where I can apply my technical and creative skills. C
 <br>
 
 <h2>Soft skills</h2>
-- 🤝 Collaborative
-- 💪 Perseverant
-- 🚀 Initiative
-- 📚 Self-taught
-- ⏳ Dedication
-- 🔄 Agile methodologies
-- ❤️ Empathy
+ 🤝 Collaborative
+ 💪 Perseverant
+ 🚀 Initiative
+ 📚 Self-taught
+ ⏳ Dedication
+ 🔄 Agile methodologies
+ ❤️ Empathy
 
 <br>
 
