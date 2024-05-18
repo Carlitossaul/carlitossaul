@@ -1,33 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Full Stack Developer</title>
-  <style>
-    h2, h3 {
-      color: #333;
-    }
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    ul li {
-      margin: 5px 0;
-    }
-
-    a img {
-      margin-bottom: 5px;
-    }
-
-    a:hover img {
-      opacity: 0.8;
-    }
-  </style>
-</head>
-<body>
   <h2>I'm a Passionate Full Stack Developer, focused on creating attractive and functional digital experiences.</h2>
 
   <h3>💻 Technologies 💻</h3>
@@ -63,6 +34,5 @@
       </li>
     </ul>
   </div>
-</body>
-</html>
+
 
