@@ -6,7 +6,7 @@
     <li><strong>Front-end:</strong> Angular, React, CSS, HTML, JS, TS</li>
     <li><strong>Back-end:</strong> Node.js, C#, ASP.NET</li>
     <li><strong>Database:</strong> PostgreSQL, MySQL</li>
-    <li><strong>Platforms for managing:</strong> Click-up, Jira, Trello, Slack, Jira</li>
+    <li><strong>Platforms for managing:</strong> Click-up, Jira, Trello, Slack</li>
   </ul>
 
   <h3>Soft Skills</h3>
