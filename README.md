@@ -5,7 +5,7 @@
   <ul>
     <li><strong>Front-end:</strong> Angular, React, CSS, HTML, JS, TS</li>
     <li><strong>Back-end:</strong> Node.js, C#, .NET</li>
-    <li><strong>Database:</strong> PostgreSQL, MySQL</li>
+    <li><strong>Database:</strong> PostgreSQL, MySQL, MongoDB</li>
     <li><strong>Platforms for managing:</strong> Click-up, Jira, Trello, Slack</li>
   </ul>
 
