@@ -1,5 +1,5 @@
 
-  <h2>I'm a Passionate Software Developer Full Stack, focused on creating attractive and functional digital experiences.</h2>
+  <h2>I'm a Passionate Software Engineer, focused on creating attractive and functional digital experiences.</h2>
 
   <h3>💻 Technologies 💻</h3>
   <ul>
