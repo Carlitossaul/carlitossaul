@@ -6,7 +6,7 @@
     <li><strong>Front-end:</strong> Angular, React, CSS, HTML, JS, TS</li>
     <li><strong>Back-end:</strong> Node.js, C#, .NET</li>
     <li><strong>Database:</strong> PostgreSQL, MySQL, MongoDB</li>
-    <li><strong>Cloud:</strong>Google Cloud, Profesional Cloud Developer</li>
+    <li><strong>Cloud:</strong> Google Cloud, Profesional Cloud Developer</li>
   </ul>
 
   <h3>Soft Skills</h3>
